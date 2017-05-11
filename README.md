@@ -7,7 +7,7 @@ results of the programming assigment of coursera
 
 2 Codebook.md --codebook describing variables, the data and transformations
 
-3 gettingandcleaningdata.R --R script
+3 run_analysis.R --R script
 
 4 tidydatasetmean.txt
 
