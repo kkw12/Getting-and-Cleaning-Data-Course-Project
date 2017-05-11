@@ -1,7 +1,7 @@
 # CodeBook
 
-This is a code book that describes the variables, the data, and any transformations or work that is needed to tidy  
-the data.
+This is a code book that describes the variables, the data, and any transformations and the work that is needed to tidy  
+the datasets.
 
 ## The data source
 
