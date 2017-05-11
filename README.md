@@ -7,9 +7,9 @@ results of the programming assigment of coursera
 
 2 Codebook.md --codebook describing variables, the data and transformations
 
-3 run_analysis.R --R script
+3 gettingandcleaningdata.R --R script
 
-# run_analysis.R
+# gettingandcleaningdata.R
 R script to create a tidy data set based on data available on the internet.
 
 By using th script, the user will be able to store and unzip the data, merge different files 
