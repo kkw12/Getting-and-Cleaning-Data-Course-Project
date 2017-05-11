@@ -67,7 +67,7 @@ There are 6 parts:
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 6. Stores the files to txt extension
 
-## How ```gettingandcleaningdate.R``` implements the above steps:
+## How ```run_analysis.R``` implements the above steps:
 * Open the R script in R or R studio
 * Select the entire script and run the total
 * The output files will appear in your workdirecty with the name ("tidydataset.txt" and "tidydatasetmean.txt")
