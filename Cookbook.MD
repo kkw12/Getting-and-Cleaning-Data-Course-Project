@@ -70,5 +70,5 @@ There are 6 parts:
 ## How ```gettingandcleaningdate.R``` implements the above steps:
 * Open the R script in R or R studio
 * Select the entire script and run the total
-* The output files will appear in your workdirecty with the name ("tidydataset.csv" and "tidydatasetmean.csv")
+* The output files will appear in your workdirecty with the name ("tidydataset.txt" and "tidydatasetmean.txt")
 
