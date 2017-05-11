@@ -65,7 +65,7 @@ There are 6 parts:
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive activity names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-6. Stores the files to csv extension
+6. Stores the files to txt extension
 
 ## How ```gettingandcleaningdate.R``` implements the above steps:
 * Open the R script in R or R studio
