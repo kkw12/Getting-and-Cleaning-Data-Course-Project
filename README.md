@@ -9,6 +9,10 @@ results of the programming assigment of coursera
 
 3 gettingandcleaningdata.R --R script
 
+4 tidydataset.csv
+
+5 tidydatasetmean.csv
+
 # gettingandcleaningdata.R
 R script to create a tidy data set based on data available on the internet.
 
